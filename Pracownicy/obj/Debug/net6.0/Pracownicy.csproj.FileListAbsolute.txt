@@ -1,0 +1,15 @@
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\obj\Debug\net6.0\Pracownicy.csproj.AssemblyReference.cache
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\obj\Debug\net6.0\Pracownicy.GeneratedMSBuildEditorConfig.editorconfig
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\obj\Debug\net6.0\Pracownicy.AssemblyInfoInputs.cache
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\obj\Debug\net6.0\Pracownicy.AssemblyInfo.cs
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\obj\Debug\net6.0\Pracownicy.csproj.CoreCompileInputs.cache
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\bin\Debug\net6.0\Pracownicy.exe
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\bin\Debug\net6.0\Pracownicy.deps.json
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\bin\Debug\net6.0\Pracownicy.runtimeconfig.json
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\bin\Debug\net6.0\Pracownicy.dll
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\bin\Debug\net6.0\ref\Pracownicy.dll
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\bin\Debug\net6.0\Pracownicy.pdb
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\obj\Debug\net6.0\Pracownicy.dll
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\obj\Debug\net6.0\ref\Pracownicy.dll
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\obj\Debug\net6.0\Pracownicy.pdb
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab3\Pracownicy\Pracownicy\Pracownicy\obj\Debug\net6.0\Pracownicy.genruntimeconfig.cache

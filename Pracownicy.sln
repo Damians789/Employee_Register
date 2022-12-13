@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pracownicy", "Pracownicy\Pracownicy.csproj", "{473A1FB6-2008-4AA2-984D-3A34CB005A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracownicyTest", "PracownicyTest\PracownicyTest.csproj", "{159E86D3-927D-4BAB-86AD-79B6D092CE34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{473A1FB6-2008-4AA2-984D-3A34CB005A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473A1FB6-2008-4AA2-984D-3A34CB005A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473A1FB6-2008-4AA2-984D-3A34CB005A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473A1FB6-2008-4AA2-984D-3A34CB005A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159E86D3-927D-4BAB-86AD-79B6D092CE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159E86D3-927D-4BAB-86AD-79B6D092CE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159E86D3-927D-4BAB-86AD-79B6D092CE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159E86D3-927D-4BAB-86AD-79B6D092CE34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDED0CFD-9E87-43F1-AA56-D1849028D4A3}
+	EndGlobalSection
+EndGlobal
